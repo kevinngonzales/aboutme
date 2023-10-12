@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #ffe7d1;
+}
+    
+h1 {
+  padding: 1.5em; 
+  background: #432A24; 
+  color: white;
+  font-size: 3em;
+  border-radius: .5em;
+}
+
+h2 {
+  padding: 1.5em; 
+  background: #432A24; 
+  color: white;
+  border-radius: .5em;
+  font-size: 2em
+}
+
+h3 {
+  padding: 2em; 
+  background: #432A24; 
+  color: white;
+  border-radius: .5em;
+  font-size: 1.8em;
+}
+
+.portrait {
+  border-radius: 8em;
+  width: 14em; height: 14em;
+  background-color: ##432A24;
+  border-width: 6em;
+  border-color: #17131B;
+}
+
+h4 {
+  padding: 1em; 
+  background: #432A24; 
+  color: white;
+  border-radius: .5em;
+  font-size: 1.5em;
+}
+
+h5 {
+  padding: .5em; 
+  background: #432A24; 
+  color: white;
+  border-radius: .5em;
+  font-size: 1.2em;
+  
+}
